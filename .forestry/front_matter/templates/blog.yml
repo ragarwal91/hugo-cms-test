@@ -11,3 +11,5 @@ fields:
   name: body
   label: Body
   description: Page body
+pages:
+- content/blog.md
